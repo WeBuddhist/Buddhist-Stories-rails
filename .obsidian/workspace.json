@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "1-SOURCES/Text/bo-མཁན་པོ་ཚུལ་རྣམ།_སྒྲུང།.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "bo-མཁན་པོ་ཚུལ་རྣམ།_སྒྲུང།"
             }
           }
         ]
@@ -199,9 +199,9 @@
   },
   "active": "d066ca5c15f520a5",
   "lastOpenFiles": [
+    "README.md",
     "1-SOURCES/Text/bo-མཁན་པོ་ཚུལ་རྣམ་གྱི་སྒྲོལ་མས་འཇིགས་པ་ལས་བསྐྱབས་པའི་གཏམ་ཕྱོགས་བསྒྲིགས།.md",
     "1-SOURCES/Text/bo-མཁན་པོ་ཚུལ་རྣམ།_སྒྲུང།.md",
-    "README.md",
     "gemini-scribe/Scheduled-Tasks/Runs",
     "gemini-scribe/Skills",
     "gemini-scribe/Background-Tasks",
